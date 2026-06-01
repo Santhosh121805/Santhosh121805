@@ -223,7 +223,6 @@ I'm **Santhosh S** — a B.Tech CSE-IT student at **REVA University, Bengaluru**
 - 🎙️ **Secretary & AI/ML Mentor** — Dev/Track Club, REVA University
 - 🌐 **Campus Ambassador** — GeeksForGeeks
 - ❤️ **Volunteer** — U&I NGO
-- 📊 **Former Secretary** — Indian Data Club
 
 ---
 
