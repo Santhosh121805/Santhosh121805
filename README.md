@@ -25,7 +25,7 @@
 
 I'm **Santhosh S** — a B.Tech CSE-IT student at **REVA University, Bengaluru** (2023–2027), building production-grade AI and full-stack systems that solve real problems.
 
-- 🔭 **Currently:** DevOps Intern @ CodeTechIT Solutions
+
 - 🧠 **Obsessed with:** LLMs, RAG pipelines, AI agents, and cloud architecture
 - 🏆 **Decorated:** 4x Hackathon Champion (IIIT-B, BNMIT, BIT, VIT Chennai)
 - 🎓 **Mentoring:** AI/ML + Cloud peers at Dev/Track Club (REVA)
