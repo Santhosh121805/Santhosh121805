@@ -190,7 +190,6 @@ I'm **Santhosh S** — a B.Tech CSE-IT student at **REVA University, Bengaluru**
 
 | 🏅 Certification | 🏢 Issuer |
 |:---|:---|
-| AWS Cloud Practitioner Essentials | Amazon Web Services |
 | Cybersecurity Essentials | Cisco |
 | Kubernetes Hands-on Lab | Udemy |
 | Cast Away AI — Kubernetes Cost & Performance | Cast AI |
@@ -259,18 +258,6 @@ I'm **Santhosh S** — a B.Tech CSE-IT student at **REVA University, Bengaluru**
 
 </div>
 
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    "The best way to predict the future is to build it."       ║
-║                                          — Santhosh S         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Santhosh121805&color=F5A623&style=for-the-badge&label=PROFILE+VIEWS)
 
