@@ -132,21 +132,7 @@ I'm **Santhosh S** — a B.Tech CSE-IT student at **REVA University, Bengaluru**
 
 ---
 
-## 💼 Experience
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🔧 DevOps Intern — CodeTechIT Solutions          Apr–May 2026   ║
-║  CI/CD pipelines · Kubernetes clusters · AWS microservices       ║
-║  Python & Bash automation scripts                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║  💻 Full Stack Developer Intern — iSPIRIT      Aug 2025–Jan 2026 ║
-║  REST APIs (Node.js + Python) · PostgreSQL/MySQL schema design   ║
-║  AI/ML model integration · AWS cloud security architecture       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## 🧑‍🤝‍🧑 Community & Leadership
 
