@@ -1,6 +1,6 @@
 
 
-      <p align="center">
+<p align="center">
   <img src="san-person-center.gif" alt="SAN" width="70%">
 </p>
 
