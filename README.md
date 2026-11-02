@@ -1,10 +1,10 @@
-<div align="center">
- <img src="banner.png" width="100%" height="400" style="object-fit: cover; object-position: center bottom;" alt="Santhosh S"/>
-</div>
 
-<div align="center">
+<p align="center">
+  <img src="san-person.gif" alt="SAN" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F5A623&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+AI%2FML+Engineer;4x+Hackathon+Winner+%F0%9F%8F%86;Building+AI+that+actually+ships;Cloud+%7C+DevOps+%7C+GenAI+%7C+Web3" alt="Typing SVG" />
+
+
 
 <br/>
 
